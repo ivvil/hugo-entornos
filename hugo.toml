@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ivvil.github.io/hugo-servidor'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hugo servidor'
 theme= 'relearn'
 
 [[params.themeVariant]]
