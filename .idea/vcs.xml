@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bridget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/archie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/bridget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/cyberscape" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hugo-json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hugo-split-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hugo-theme-terminal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hugo.386" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/relearn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/salinger-theme" vcs="Git" />
+  </component>
+</project>
